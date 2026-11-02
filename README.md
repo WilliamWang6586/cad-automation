@@ -1,6 +1,6 @@
 # CAD 自动化绘图 Skill（优化版）
 
-> `cad-automation` —— CAD 自动化绘图技能。
+> AutoCAD 二次开发知识库：COM/ActiveX 接口调用、图层与标注样式批量操作、DXF 文件读写（ezdxf）、脚本调试与批处理。附带最小可跑示例，不装 AutoCAD 也能先生成 DXF 验证思路。
 
 **版本** 1.0.0 ｜ **技能名** `cad-automation`
 
